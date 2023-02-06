@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>N59.jpeg</filename>
+	<path>C:\Users\Marouane\Desktop\Master_DSBD\S3\PREDICTIVE ANALYSIS\courses\Automatic Number Plate Recognition\practise\1-data_labeling\images\N59.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3720</width>
+		<height>2472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1202</xmin>
+			<ymin>962</ymin>
+			<xmax>2511</xmax>
+			<ymax>1310</ymax>
+		</bndbox>
+	</object>
+</annotation>
