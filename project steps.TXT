@@ -1,0 +1,10 @@
+1- collecting images
+2- labeling images
+3- preprocessing
+4- training images (Deep Learning model)
+5- model artifacts/cross validation
+6- object detection model
+7- OCR (extract text)
+8- model pipeline 
+9- model artifacts
+10- flask page web
