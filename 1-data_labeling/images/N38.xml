@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>N38.jpeg</filename>
+	<path>C:\Users\Marouane\Desktop\Master_DSBD\S3\PREDICTIVE ANALYSIS\courses\Automatic Number Plate Recognition\practise\1-data_labeling\images\N38.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>593</ymin>
+			<xmax>641</xmax>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+</annotation>
